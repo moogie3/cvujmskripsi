@@ -3,6 +3,7 @@
 
 
 **📖 Overview**
+
 This project implements a TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)-based employee evaluation system for CV Utomo Jaya Mandiri (UJM). It simplifies and enhances employee evaluation processes by providing a systematic and efficient decision-making framework.
 
 Key Features
@@ -24,6 +25,7 @@ Web Server: Apache or Nginx (with PHP support) / XAMPP.
 
 
 **📊 Usage**
+
 Key Functionalities
 1. Employee Data Management
    - Add, update, and delete employee records.
@@ -40,6 +42,7 @@ Key Functionalities
 
 
 **🌟 TOPSIS Method**
+
 The TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) method is a multi-criteria decision-making approach that ranks options based on their proximity to an ideal solution.
 
 Steps in TOPSIS:
@@ -52,9 +55,11 @@ Steps in TOPSIS:
 
 
 **🛡️ License**
+
 This project is licensed under the MIT License.
 
 **📧 Contact**
+
 For questions or feedback, please contact:
 
 Author: Moogie3
