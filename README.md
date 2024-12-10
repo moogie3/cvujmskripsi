@@ -14,6 +14,7 @@ Customizable criteria and weights for evaluation parameters.
 
 
 **🚀 Getting Started**
+
 Prerequisites
 PHP: Version 7.4 or higher.
 MySQL: Version 5.7 or higher.
