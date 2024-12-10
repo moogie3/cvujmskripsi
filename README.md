@@ -1,6 +1,6 @@
-****CV UJM Employee Evaluation System**
+**CV UJM Employee Evaluation System**
 
-**A Final Project (Skripsi) for S1 Teknik Informatika, Universitas Dinamika Bangsa****
+**A Final Project (Skripsi) for S1 Teknik Informatika, Universitas Dinamika Bangsa**
 
 
 **📖 Overview**
